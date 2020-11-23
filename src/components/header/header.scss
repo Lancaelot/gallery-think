@@ -1,0 +1,49 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0 20px;
+
+  &__logo {
+    font-size: 26px;
+    color: white;
+    cursor: default;
+  }
+  &__top {
+    display: flex;
+    justify-content: space-between;
+  }
+  &__button {
+    margin-left: 15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: none;
+    color: white;
+    transition: transform, color 300ms ease;
+    &:hover {
+      transform: scale(1.1);
+      color: orange;
+    }
+  }
+  &__pageNav {
+    color: white;
+  }
+  &__highlight {
+    color: orange;
+  }
+}
+
+@media (max-width: 500px){
+  .header {
+    &__logo {
+      font-size: 12px;
+    }
+    &__pageNav {
+      margin-left: 15px;
+    }
+    &__button {
+      margin-left: 5px;
+    }
+  }
+}
