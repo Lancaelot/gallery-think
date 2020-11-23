@@ -41,7 +41,7 @@ export const App = () => {
           images={images}
         />
         <main className="main">
-          <Route path="/home">
+          <Route path="/" exact>
             {images
               ? (
                 <>

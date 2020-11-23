@@ -8,7 +8,7 @@ export const Nav = () => (
   <nav className="nav">
     <ul className="nav__list">
       <li className="nav__item">
-        <Link to="/home" className="nav__link">
+        <Link to="/" className="nav__link">
           <img
             src={home}
             alt="img"
