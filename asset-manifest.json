@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.ef025793.chunk.css",
-    "main.js": "/static/js/main.36b90e79.chunk.js",
-    "main.js.map": "/static/js/main.36b90e79.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8e4aa085.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8e4aa085.js.map",
-    "static/js/2.87e36b9c.chunk.js": "/static/js/2.87e36b9c.chunk.js",
-    "static/js/2.87e36b9c.chunk.js.map": "/static/js/2.87e36b9c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.ef025793.chunk.css.map": "/static/css/main.ef025793.chunk.css.map",
-    "static/js/2.87e36b9c.chunk.js.LICENSE.txt": "/static/js/2.87e36b9c.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/background.da1abc1e.jpg",
-    "static/media/clear.94d2b683.svg": "/static/media/clear.94d2b683.svg",
-    "static/media/download.95c3298f.svg": "/static/media/download.95c3298f.svg",
-    "static/media/heart.214701d4.svg": "/static/media/heart.214701d4.svg",
-    "static/media/home.72a7f750.svg": "/static/media/home.72a7f750.svg",
-    "static/media/star.ea72b971.svg": "/static/media/star.ea72b971.svg",
-    "static/media/travolta.b0232c0e.gif": "/static/media/travolta.b0232c0e.gif"
+    "main.css": "./static/css/main.61e6fff1.chunk.css",
+    "main.js": "./static/js/main.36b90e79.chunk.js",
+    "main.js.map": "./static/js/main.36b90e79.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8d3575a0.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8d3575a0.js.map",
+    "static/js/2.87e36b9c.chunk.js": "./static/js/2.87e36b9c.chunk.js",
+    "static/js/2.87e36b9c.chunk.js.map": "./static/js/2.87e36b9c.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.61e6fff1.chunk.css.map": "./static/css/main.61e6fff1.chunk.css.map",
+    "static/js/2.87e36b9c.chunk.js.LICENSE.txt": "./static/js/2.87e36b9c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/background.da1abc1e.jpg",
+    "static/media/clear.94d2b683.svg": "./static/media/clear.94d2b683.svg",
+    "static/media/download.95c3298f.svg": "./static/media/download.95c3298f.svg",
+    "static/media/heart.214701d4.svg": "./static/media/heart.214701d4.svg",
+    "static/media/home.72a7f750.svg": "./static/media/home.72a7f750.svg",
+    "static/media/star.ea72b971.svg": "./static/media/star.ea72b971.svg",
+    "static/media/travolta.b0232c0e.gif": "./static/media/travolta.b0232c0e.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e4aa085.js",
+    "static/js/runtime-main.8d3575a0.js",
     "static/js/2.87e36b9c.chunk.js",
-    "static/css/main.ef025793.chunk.css",
+    "static/css/main.61e6fff1.chunk.css",
     "static/js/main.36b90e79.chunk.js"
   ]
 }
