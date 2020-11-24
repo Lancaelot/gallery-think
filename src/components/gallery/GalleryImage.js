@@ -5,9 +5,8 @@ import { defaultImgSource } from '../../api/api';
 export const GalleryImage = (props) => {
   const { id, setCurrentImg, images } = props;
   const altImg = `Image ID ${id}`;
-
+  /* eslint-disable */
   return (
-    /* eslint-disable */
     <img
       className="gallery__image"
       alt={altImg}
@@ -18,8 +17,8 @@ export const GalleryImage = (props) => {
         setCurrentImg(currImg);
       }}
     />
-    /* eslint-enable */
   );
+  /* eslint-enable */
 };
 
 GalleryImage.propTypes = {
