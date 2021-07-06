@@ -1,0 +1,39 @@
+.nav {
+  margin-left: 7%;
+  &__item {
+    width: 65px;
+  }
+  &__list {
+    display: flex;
+    justify-content: center;
+  }
+  &__icon {
+    width: 44px;
+    heigth: 44px;
+  }
+  &__link {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    color: white;
+    transition: transform, color 500ms ease;
+    &:nth-child(1){
+
+    }
+    &:hover {
+      transform: scale(1.2);
+      color: orange;
+    }
+
+  }
+}
+
+@media (max-width: 500px){
+  .nav {
+    &__icon {
+      width: 22px;
+      heigth: 22px;
+    }
+  }
+}
